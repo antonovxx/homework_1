@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\bin\Debug\net6.0\task_7.exe
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\bin\Debug\net6.0\task_7.deps.json
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\bin\Debug\net6.0\task_7.runtimeconfig.json
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\bin\Debug\net6.0\task_7.dll
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\bin\Debug\net6.0\task_7.pdb
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.dll
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\refint\task_7.dll
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.pdb
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\task_7.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documents\Education\C# TOP\Homeworks\homework_1\hw_1\task_7\obj\Debug\net6.0\ref\task_7.dll
