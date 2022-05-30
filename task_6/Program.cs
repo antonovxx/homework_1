@@ -9,27 +9,41 @@ namespace task_6
     {
         public static void Main(string[] args)
         {
-            const int rows = 2;
+            const int rows = 3;
             const int cols = 3;
             int[,] matrix = new int[rows, cols];
 
             FillMatrix(matrix, rows, cols);
 
+            Console.WriteLine("Matrix: " + Environment.NewLine);
             PrintMatrix(matrix, rows, cols);
 
-            Console.WriteLine("Enter numbers of cols that places you want to change: ");
-            int col1 = int.Parse(Console.ReadLine());
-            int col2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nMatrix after changing: " + Environment.NewLine);
 
-            for(int i = 0; i < rows; i++)
+            PrintMatrix(Func(matrix), rows, cols);  
+
+        }
+
+        static int[,] Func(int[,] Arr) 
+        {
+
+            int[,] arr = new int[Arr.GetLength(0), Arr.GetLength(1)];
+
+            int k;
+            for (int i = 0; i < arr.GetLength(1); i++)
             {
-                for(int j = 0; j < cols; j++)
+                for (int j = 0; j < arr.GetLength(0); j++)
                 {
-
+                    arr[i, j] = Arr[i, j];
                 }
             }
-            
-
+            for (int i = 0; i < Arr.GetLength(0); i++)
+            {
+                k = arr[i, 0]; // индекс 1 столбца
+                arr[i, 0] = arr[i, 1]; // индекс 2 столбца
+                arr[i, 1] = k;
+            }
+            return arr;
         }
 
         static void FillMatrix(int [,] matrix, int rows, int cols)
